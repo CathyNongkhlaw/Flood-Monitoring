@@ -1,0 +1,8 @@
+{
+  "name": "Urban Flood & Drainage Monitoring System",
+  "description": "Municipal Operations and Environmental Monitoring Portal for urban flood monitoring, prediction, GIS mapping, and computer-vision drainage blockage inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
